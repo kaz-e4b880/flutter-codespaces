@@ -3,7 +3,7 @@
 {
 	"name": "Flutter Development Container",
 	// Or use a Dockerfile or Docker Compose file. More info: https://containers.dev/guide/dockerfile
-	"image": "ghcr.io/kaz-e4b880/flutter-codespaces",
+	"image": "ghcr.io/kaz-e4b880/flutter-codespaces:main",
 	// Features to add to the dev container. More info: https://containers.dev/features.
 	// "features": {},
 
